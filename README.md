@@ -36,7 +36,7 @@ Bienvenido al frontend de nuestra aplicación de Gestión de Eventos. Esta inter
 
 1. Clona este repositorio:
    ```
-   git clone https://tu-repositorio.git
+   git clone https://github.com/JACL613/gestor-eventos-front.git
    cd frontend
    ```
 
